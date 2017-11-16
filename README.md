@@ -31,7 +31,7 @@ Those settings need to be configured to get this extension running.
 This extension contains a configuration interface to make it easier for users to edit the application setting at runtime.
 To call this window, enter #config# within a comment. The extension will react to this command and open the configuration window.
 
-![](Screenshots/ConfigurationWindow.png)
+![](Screenshots/ConfigurationWindow.PNG)
 
 The "Add" button add the entered new command term to the list bellow. If you want to remove some old commands, just select the command to remove and click on "Remove".
 After closing the window, all values will be saved in the application settings and from now on they are available.
