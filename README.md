@@ -24,7 +24,7 @@ Those settings need to be configured to get this extension running.
 * Seperator (char): the seperator is the seperation between the key word and the term, which will be added to the url assigned to key word
 * CommandCollection (StringCollection): This collection is kind of key-value collection, but each key-value pair is a string with key word and term seperated by the same configured seperator. Concretly, the key is the key word (e.g. search) and the value is an url (e.g. "http://www.google.ch/search?q=")
 
-![](Screenshots/CommandTermExample.png)
+![](Screenshots/CommandTermExample.PNG)
 
 *Configuration Window*
 
